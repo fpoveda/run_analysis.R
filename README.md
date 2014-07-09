@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README.md
 
 ### Summary:
@@ -27,3 +28,7 @@ Here are the data used for the project:
 CodeBook.md has further information on data.
   
   
+=======
+run_analysis.R
+==============
+>>>>>>> f2fc69340b3cf37ef592a24e0c1878569e6f0948
